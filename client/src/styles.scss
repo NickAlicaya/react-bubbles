@@ -81,6 +81,9 @@ form {
 
   input {
     width: 100%;
+    height: 2rem;
+    font-size: 1.6rem;
+    margin-bottom: 2%;
   }
 }
 
@@ -99,10 +102,9 @@ form {
     background-color: red;
   }
 }
-// .mainCont{
-//   display:flex;
-//   flex-direction: column;
-// }
+.mainCont{
+margin: 3% 30% auto;
+}
 
 // .welcomeTxt {
 //   text-align: center;
@@ -110,7 +112,7 @@ form {
 // }
 
 // form{
-//   width:40%;
+//   width:100%;
 //   margin: 5% 30%;
 //   background-color: silver;
 //   border: 2px solid black;
