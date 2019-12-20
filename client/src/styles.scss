@@ -80,7 +80,7 @@ form {
   }
 
   input {
-    width: 100px;
+    width: 100%;
   }
 }
 
@@ -95,5 +95,23 @@ form {
     color: white;
     padding: 3px 8px;
     margin-top: 16px;
+    border-radius: 8px;
+    background-color: red;
   }
 }
+// .mainCont{
+//   display:flex;
+//   flex-direction: column;
+// }
+
+// .welcomeTxt {
+//   text-align: center;
+//   margin:auto;
+// }
+
+// form{
+//   width:40%;
+//   margin: 5% 30%;
+//   background-color: silver;
+//   border: 2px solid black;
+// }
